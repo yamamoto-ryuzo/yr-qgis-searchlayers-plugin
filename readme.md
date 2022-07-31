@@ -1,6 +1,8 @@
 # Yr Search Layers Plugin  
 https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin  
 This repository is intended as a contribution to qgis-searchlayers-plugin, to provide a test environment before PULL requests and to add functionality that is too proprietary.  
+（日本語）  
+このリポジトリは qgis-searchlayers-plugin への貢献として、PULL リクエスト前のテスト環境の提供や、独自すぎる機能の追加を目的としています。  
 ## Latest Japanese environment
 ## Realization of custom settings for each project
  By specifying a layer name in the variable 'searchlayers-plugin' in the project file, only the specified layer can be searched.  
