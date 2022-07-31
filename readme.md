@@ -9,6 +9,6 @@ This repository is intended as a contribution to qgis-searchlayers-plugin, to pr
 #### ・normal
  ![image](https://user-images.githubusercontent.com/86514652/181909319-7436b72d-5c2f-49b0-b5be-2c8482644a4e.png)  
 #### ・set 'searchlayers-plugin' "test1,test3,test10'  
-![image](https://user-images.githubusercontent.com/86514652/181909555-981fb82a-ce43-4255-b674-de02511fd0c0.png)  
+ ![image](https://user-images.githubusercontent.com/86514652/181909555-981fb82a-ce43-4255-b674-de02511fd0c0.png)  
 #### ・result:  
  ![image](https://user-images.githubusercontent.com/86514652/181909585-7cc2ad58-779e-409a-9fcb-7f1dd8f5dfce.png)  
