@@ -1,4 +1,4 @@
-# https://github.com/yamamoto-ryuzo/GEO-search-plugin　へ集約
+# https://github.com/yamamoto-ryuzo/GEO-search-plugin へ集約
 
 # Yr Search Layers Plugin  
 https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin  
